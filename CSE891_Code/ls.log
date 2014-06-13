@@ -1,0 +1,22 @@
+total 9536908
+-rw-r--r-- 1 qingpeng 1014      20192 Nov 15  2009 analysis.result
+-rw-r--r-- 1 qingpeng 1014       5595 Nov 15  2009 analyze_membership.py
+-rw-r--r-- 1 qingpeng 1014 7356812187 Nov 15  2009 blast.out.m8
+-rw-r--r-- 1 qingpeng 1014          0 Nov 15  2009 blast.out.m8.W3
+-rw-r--r-- 1 qingpeng 1014 2142711808 Nov 15  2009 blast.out.m8.W4
+drwxr-xr-x 2 qingpeng 1014       4096 Nov 12 15:30 CSE891_Code
+drwxr-xr-x 2 qingpeng 1014       4096 Nov 15  2009 E-10
+drwxr-xr-x 2 qingpeng 1014       4096 Nov 15  2009 E-5
+-rw-r--r-- 1 qingpeng 1014     107748 Nov 15  2009 family.txt
+-rw-r--r-- 1 qingpeng 1014        219 Nov 15  2009 formatdb.log
+-rw------- 1 qingpeng 1014     157643 Nov 15  2009 nohup.out
+-rw-r--r-- 1 qingpeng 1014    4414323 Nov 15  2009 Rfam.seed.fa
+-rw-r--r-- 1 qingpeng 1014    2595388 Nov 15  2009 Rfam.seed.fa.nhr
+-rw-r--r-- 1 qingpeng 1014     327580 Nov 15  2009 Rfam.seed.fa.nin
+-rw-r--r-- 1 qingpeng 1014     892394 Nov 15  2009 Rfam.seed.fa.nsq
+-rw-r--r-- 1 qingpeng 1014  213530476 Nov 15  2009 Rfam.test.fa
+-rw-r--r-- 1 qingpeng 1014   34574599 Nov 15  2009 run.log
+-rw-r--r-- 1 qingpeng 1014      14710 Nov 15  2009 sequence_number.log
+-rw-r--r-- 1 qingpeng 1014       1851 Nov 15  2009 stat.py
+-rw-r--r-- 1 qingpeng 1014       2087 Nov 15  2009 test.in
+drwxr-xr-x 2 qingpeng 1014       4096 Nov 15  2009 Trash
