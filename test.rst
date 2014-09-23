@@ -12,7 +12,7 @@ khmer release required.
    . ~/dev/ipy7/bin/activate
    set -e
    
-   # make a 500 bp repeat
+# make a 500 bp repeat
    python ~/dev/nullgraph/make-random-genome.py -l 500 -s 10 > repeat.fa
    
    # create a genome with 5kb unique sequence interspersed with 5x 500 bp
